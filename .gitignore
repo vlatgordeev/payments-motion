@@ -1,0 +1,20 @@
+.DS_Store
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# Local build and signing artifacts
+build/
+*.xcarchive
+*.ipa
+*.dSYM/
+*.xcresult/
+*.mobileprovision
+*.p12
+*.p8
+.env
+.env.*
+
+# Local design references and verification captures
+DesignAssets/
+Verification/
